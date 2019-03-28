@@ -23,7 +23,6 @@ Here's an example of some things to check after running the build script:
     tomcat              8.5                 a92c139758db        2 weeks ago         558MB
     $
 
-
 ## Source Url Mapping
 
 The app is a small demo of a java servlet app.  Here's the source code to url mapping:
